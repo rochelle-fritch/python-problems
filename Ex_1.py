@@ -1,6 +1,6 @@
 
 # Rochelle Fritch
-# Week 1
+# Week 1, 26/01/2018
 
 def fib(n):
   """This function returns the nth Fibonacci number."""
