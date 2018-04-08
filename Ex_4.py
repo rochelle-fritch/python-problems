@@ -8,8 +8,8 @@
 
 # tell if a number is divisible by 1 to 20
 def isDiv1to20(number):
-    for i in range(2, 21):
-        if number % i !=0:
+    for i in range(2, 21):      # Always end with +1 over the number you want to end with.
+        if number % i !=0:      # if the remainder does not equal 0
             return False
     return True        
 
