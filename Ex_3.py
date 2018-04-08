@@ -1,4 +1,5 @@
-# Rochelle Fritch 11.02.2018
+# Rochelle Fritch
+# Week 3, 11/02/2018
 
 def collatz(x):
 
