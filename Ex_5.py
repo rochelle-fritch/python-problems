@@ -15,13 +15,14 @@
 
 # 
 # Write a Python script that reads the Iris data set in and prints the four numerical values on each row in a nice format. 
-# That is, on the screen should be printed the petal length, petal width, sepal length and sepal width, and these values should have the decimal places aligned, with a space between the columns.
+# That is, on the screen should be printed the petal length, petal width, sepal length and sepal width, and these values 
+# should have the decimal places aligned, with a space between the columns.
 
 
 with open("data/iris.csv") as f:
-    for line in f: # looping through each line in file
-        x = line.split(',') # splits lines into a list
-        print(x[0],x[1],x[2],x[3])
+    for line in f:                  # looping through each line in file
+        x = line.split(',')         # splits lines into a list
+        print(x[0],x[1],x[2],x[3])  # formats with correct blocking
    
 
 
