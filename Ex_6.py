@@ -1,5 +1,5 @@
 # Rochelle Fritch
-# Exercise 6 - Functions
+# Exercise 6 - Functions, 10/03/2018
 
 # Write a Python script containing a function called factorial() 
 # that takes a single input/argument which is a positive integer 
