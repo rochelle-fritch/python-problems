@@ -38,6 +38,9 @@ Please complete the following exercise this week. Write a Python script containi
 ### Links
 
 Python tutorial: https://docs.python.org/3/tutorial/
+
 GMIT module page: https://learnonline.gmit.ie/course/view.php?id=3940
 
-#### Programming language: Python 3
+#### Programming language
+
+Python 3
