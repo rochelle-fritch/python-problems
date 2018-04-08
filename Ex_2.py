@@ -1,5 +1,5 @@
 # Rochelle Fritch
-# Week 2
+# Week 2, 01/02/2018
 # A program that displays Fibonacci numbers using people's names.
 
 def fib(n):
