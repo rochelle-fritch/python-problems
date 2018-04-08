@@ -1,6 +1,6 @@
 
 # Rochelle Fritch
-# Exercise 5
+# Exercise 5, 04/03/2018
 
 # Opening data files in python, printing formatted data in python.
 
@@ -11,7 +11,7 @@
 #   r+ = read + write
 
 # with - automatically closes a file after.
-# Look @ Section 7.1 Fancier output 
+# Look @ Section 7.1 Fancier output
 
 # 
 # Write a Python script that reads the Iris data set in and prints the four numerical values on each row in a nice format. 
