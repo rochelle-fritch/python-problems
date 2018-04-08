@@ -41,6 +41,6 @@ Python tutorial: https://docs.python.org/3/tutorial/
 
 GMIT module page: https://learnonline.gmit.ie/course/view.php?id=3940
 
-#### Programming language
+### Programming language
 
 Python 3
