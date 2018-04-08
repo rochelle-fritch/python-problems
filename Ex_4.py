@@ -1,5 +1,5 @@
 # Rochelle Fritch 
-# Exercise 4
+# Exercise 4, 24/02/2018
 
 # Please complete the following exercise this week. It is problem 5 from Project Euler. 
 # The problem is as follows. 2,520 is the smallest number that can be divided by each of the numbers from 1 to 10 without any remainder. 
